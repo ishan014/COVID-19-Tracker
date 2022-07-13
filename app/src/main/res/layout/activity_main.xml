@@ -27,7 +27,7 @@
                 android:padding="3dp"
                 android:text="World Wide Record"
                 android:textAlignment="center"
-                android:textColor="@color/black"
+                android:textColor="@color/purple_700"
                 android:textSize="18sp" />
 
             <LinearLayout
